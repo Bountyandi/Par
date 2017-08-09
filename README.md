@@ -1,4 +1,4 @@
-# Par
+# Par - m3u files parser (Vanilla.js, Webpack, Node.js) 
 
 To run project:
 
