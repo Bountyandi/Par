@@ -1,10 +1,8 @@
-#PLAYLIST:Guf Playlist
-#EXTINF:303,Moy Rayon
-http//guff.ua/moy_rayon.mp3
-#EXTINF:303,Moy Rayon
-http//guff.ua/moy_rayon.mp3
-#EXTINF:303,Moy Rayon
-http//guff.ua/moy_rayon.mp3
-----NOISE---NOISE---NOISE---
-#EXTINF:303,Moy Rayon
-http//guff.ua/moy_rayon.mp3
+#PLAYLIST:Sounds of Nature
+#EXTINF:916,Шум Дождя
+https://rorg.zf.fm/8/87/zvuki_prirodi_-_shum_dozhdja_(zf.fm).mp3
+#EXTINF:303,Шум Моря
+https://rorg.zf.fm/1/58/zvuki_prirodi_-_shum_morja_zaycevnet_(zv.fm).mp3
+---NOISE---NOISE---NOISE---
+#EXTINF:297,Вечерний Лес
+https://rorg.zf.fm/5/2e/zvuki_zhivoj_prirodi_-_vechernij_les_(zf.fm).mp3
